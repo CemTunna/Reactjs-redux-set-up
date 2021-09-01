@@ -1,1 +1,1 @@
-Reactjs-hooks Redux boilerplate
+Reactjs-Redux boilerplate
